@@ -15,7 +15,7 @@ import { projects } from "@cv";
                 <a href={url} title={`Ver ${name}`} target="_blank">
                   {name}
                 </a>
-                {isActive && <span>&bull;</span>}
+                {isActive && <span>●</span>}
               </h3>
 
               <p>{description}</p>
@@ -47,6 +47,12 @@ import { projects } from "@cv";
     flex-direction: column;
     padding: 16px;
     height: 100%;
+    cursor: default;
+    transition: all 0.3s ease;
+  }
+
+  article:hover {
+    box-shadow: 0 1px 16px 0 #ccc;
   }
 
   article header {
@@ -78,16 +84,22 @@ import { projects } from "@cv";
     line-height: 1.2rem;
   }
   article h3 span {
-    color: rgb(34 197 94);
+    color: rgb(255, 0, 0);
   }
 
   footer span {
     border-radius: 6px;
-    background: #ff8383;
+    background: #ddd;
     color: #222;
     font-size: 0.6rem;
     font-weight: 500;
     padding: 0.2rem 0.4rem;
+    cursor: default;
+    transition: background 0.3s ease;
+  }
+
+  footer span:hover {
+    background: #ccc;
   }
 
   @media (width <= 1024px) {

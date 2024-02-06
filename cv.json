@@ -149,7 +149,7 @@
       "description": "Aplicación integrada con IA para la organización de tareas diarias.",
       "highlights": ["En desarollo..."],
       "url": "",
-      "isActive": false
+      "isActive": true
     },
 
     {
@@ -173,15 +173,7 @@
       "description": "Description...",
       "highlights": ["En desarollo..."],
       "url": "",
-      "isActive": false
-    },
-
-    {
-      "name": "e-Comerce COP",
-      "description": "Description...",
-      "highlights": ["En desarollo..."],
-      "url": "",
-      "isActive": false
+      "isActive": true
     }
   ]
 }
