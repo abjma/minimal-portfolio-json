@@ -1,18 +1,20 @@
 {
-    "basics": {
-      "name": "Abel José Montes",
-      "label": "Ingeniero de Sistemas | FrontEnd Developer",
-      "image": "/me.webp",
-      "email": "abelj.montes@gmail.com",
-      "phone": "+57 (300) 498 2520",
-      "url": "https://abeljmontes.com",
-      "summary": "Hola 👋, soy Abel José Montes, Ingeniero de Sistemas, Desarrollador Web Front-end en mis ratos libres, (ocasionalmente me creo diseñador UI/UX). Autodidacta, trabajo en equipo, eficacia y perfección son algunas de mis grandes cualidades como profesional. Mis mejores amigos son mis mascotas «paloma, sushi y sasha», aficionado a las motos, viajar es mi estilo de vida y que las aventuras sean parte de mi historia personal.",
-      "location": {
-        "city": "Medellín",
-        "countryCode": "CO",
-        "region": "Colombia"
-      },
-      "profiles": [{
+  "basics": {
+    "name": "Abel José Montes",
+    "label": "Ingeniero de sistemas | FrontEnd Developer",
+    "image": "/me.webp",
+    "email": "abelj.montes@gmail.com",
+    "phone": "+57 (300) 498 2520",
+    "url": "https://abeljmontes.com",
+    "summary": "Hola 👋, soy Abel José Montes, Ingeniero de Sistemas, Desarrollador Web Front-end en mis ratos libres, (ocasionalmente me creo diseñador UI/UX). Autodidacta, trabajo en equipo, eficacia y perfección son algunas de mis grandes cualidades como profesional. Mis mejores amigos son mis mascotas «paloma, sushi y sasha», aficionado a las motos, viajar es mi estilo de vida y que las aventuras sean parte de mi historia personal.",
+    "location": {
+      "city": "Medellín",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+
+    "profiles": [
+      {
         "network": "X",
         "username": "ajosem_",
         "url": "https://twitter.com/ajosem_"
@@ -26,17 +28,18 @@
         "network": "LinkedIn",
         "username": "abjma",
         "url": "https://www.linkedin.com/in/abjma/"
-      }]
-    },
-    "work": [
-      {
+      }
+    ]
+  },
+  "work": [
+    {
       "name": "Frutybana",
       "position": "Técnico de Soporte TI",
       "url": "",
       "startDate": "2022-01-10",
       "endDate": "2024-01-10",
       "summary": "Lideré el departamento de Soporte TI, desarrollando funciones de nivel 1, 2 y 3, aportando al crecimiento de la empresa, automatización de procesos y mejoras en los sistemas de seguridad cerrada.",
-      "highlights": [ "Started the company" ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Freelancer",
@@ -45,11 +48,12 @@
       "startDate": "2019-01-10",
       "endDate": null,
       "summary": "Lideré el departamento de Soporte TI, desarrollando funciones de nivel 1, 2 y 3, aportando al crecimiento de la empresa, automatización de procesos y mejoras en los sistemas de seguridad cerrada.",
-      "highlights": [ "Started the company" ]
+      "highlights": ["Started the company"]
     }
   ],
-    "education": [
-      {
+
+  "education": [
+    {
       "institution": "Universidad Nacional Abierta y a Distancia (UNAD)",
       "url": "https://www.unad.edu.co/",
       "area": "Ingeniería de Sistemas",
@@ -73,146 +77,111 @@
       "startDate": "2024-04-01",
       "endDate": null
     }
-
   ],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }],
-    "skills": [
-        {
-            "name": "CSS",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
 
-        {
-            "name": "JavaScript",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
+  "skills": [
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "Astro",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
-        
-        {
-            "name": "React",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "Next.Js",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
+    {
+      "name": "Astro",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "TypeScript",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "Tailwind CSS",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
+    {
+      "name": "Next.Js",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "Git",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        },
-        
-        {
-            "name": "GitHub",
-            "level": "Master",
-            "keywords": [ "Desarrollo Web", "Frontend" ]
-        }
-    ],
-    "languages": [{
-      "language": "Español",
-      "fluency": "Idioma nativo"
-    }],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }],
-    "references": [{
-      "name": "Jane Doe",
-      "reference": "Reference…"
-    }],
-    "projects": 
-    [
-        {
-            "name": "Sunset VS",
-            "description": "Extensión de VS Code",
-            "highlights": [ "+1k Descargas en VS Code" ],
-            "url": "",
-            "isActive": true
-        },
+    {
+      "name": "TypeScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "Trello APP",
-            "description": "Aplicación integrada con IA para la organización de tareas diarias.",
-            "highlights": [ "Won award at AIHacks 2016" ],
-            "url": "",
-            "isActive": false
-        },
+    {
+      "name": "Tailwind CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "Weather APP",
-            "description": "APP del tiempo con integración IA",
-            "highlights": [ "+1k visitas diarias" ],
-            "url": "",
-            "isActive": true
-        },
+    {
+      "name": "Git",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
 
-        {
-            "name": "Key Game",
-            "description": "Description...",
-            "highlights": [ "+50 jugadores activos diarios" ],
-            "url": "",
-            "isActive": true
-        },
+    {
+      "name": "GitHub",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    }
+  ],
 
-        {
-            "name": "e-Comerce COP",
-            "description": "Description...",
-            "highlights": [ "En desarollo..." ],
-            "url": "",
-            "isActive": false
-        },
+  "projects": [
+    {
+      "name": "Sunset VS",
+      "description": "Extensión de VS Code",
+      "highlights": ["+1k Descargas en VS Code"],
+      "url": "",
+      "isActive": true
+    },
 
-        {
-          "name": "e-Comerce COP",
-          "description": "Description...",
-          "highlights": [ "En desarollo..." ],
-          "url": "",
-          "isActive": false
-        }
+    {
+      "name": "Trello APP",
+      "description": "Aplicación integrada con IA para la organización de tareas diarias.",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "",
+      "isActive": false
+    },
 
-    ]
-  }
+    {
+      "name": "Weather APP",
+      "description": "APP del tiempo con integración IA",
+      "highlights": ["+1k visitas diarias"],
+      "url": "",
+      "isActive": true
+    },
+
+    {
+      "name": "Key Game",
+      "description": "Description...",
+      "highlights": ["+50 jugadores activos diarios"],
+      "url": "",
+      "isActive": true
+    },
+
+    {
+      "name": "e-Comerce COP",
+      "description": "Description...",
+      "highlights": ["En desarollo..."],
+      "url": "",
+      "isActive": false
+    },
+
+    {
+      "name": "e-Comerce COP",
+      "description": "Description...",
+      "highlights": ["En desarollo..."],
+      "url": "",
+      "isActive": false
+    }
+  ]
+}
