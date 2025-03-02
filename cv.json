@@ -33,12 +33,21 @@
   },
   "work": [
     {
-      "name": "Frutybana",
+      "name": "Reserco International Services IT",
       "position": "Técnico de Soporte TI",
+      "url": "",
+      "startDate": "2024-05-02",
+      "endDate": null,
+      "summary": "Brindo soporte técnico en sitio a empresas como IBM, Lexmark, Arus, NEC y Cencosud, asegurando la operatividad de sus sistemas. Gestiono infraestructura tecnológica, redes y bases de datos, participando en proyectos de renovación y traslado de sedes con alto nivel de satisfacción.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Frutybana",
+      "position": "Técnico de Sistemas",
       "url": "",
       "startDate": "2022-01-10",
       "endDate": "2024-01-10",
-      "summary": "Lideré el departamento de Soporte TI, desarrollando funciones de nivel 1, 2 y 3, aportando al crecimiento de la empresa, automatización de procesos y mejoras en los sistemas de seguridad cerrada.",
+      "summary": "En este cargo, fui responsable de la atención y solución de incidencias de primer nivel, garantizando  una rápida respuesta y resolución de problemas para los usuarios. Mi enfoque en la optimización de procesos y la mejora de la experiencia del usuario fue altamente valorado.",
       "highlights": ["Started the company"]
     },
     {
@@ -88,43 +97,31 @@
 
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Intermedio",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
 
     {
       "name": "Astro",
-      "level": "Master",
+      "level": "Intermedio",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
 
     {
       "name": "React",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "Next.Js",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "TypeScript",
-      "level": "Master",
+      "level": "Principiante",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
 
     {
       "name": "Tailwind CSS",
-      "level": "Master",
+      "level": "Intermedio",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
 
     {
       "name": "Git",
-      "level": "Master",
+      "level": "Intermedio",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
 
@@ -132,6 +129,41 @@
       "name": "GitHub",
       "level": "Master",
       "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "Node.js",
+      "level": "Principiante",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "VS Code",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "Linux",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "Windows",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CCNA 7",
+      "level": "Intermedio",
+      "keywords": ["Redes", "Cisco"]
     }
   ],
 
@@ -139,22 +171,6 @@
     {
       "name": "Sunset VS",
       "description": "Extensión de VS Code",
-      "highlights": ["En desarollo..."],
-      "url": "",
-      "isActive": true
-    },
-
-    {
-      "name": "Trello APP",
-      "description": "Aplicación integrada con IA para la organización de tareas diarias.",
-      "highlights": ["En desarollo..."],
-      "url": "",
-      "isActive": true
-    },
-
-    {
-      "name": "Weather APP",
-      "description": "APP del tiempo con integración IA",
       "highlights": ["En desarollo..."],
       "url": "",
       "isActive": true
@@ -170,7 +186,7 @@
 
     {
       "name": "e-Comerce COP",
-      "description": "Description...",
+      "description": "e-Comerce de productos colombianos",
       "highlights": ["En desarollo..."],
       "url": "",
       "isActive": true
