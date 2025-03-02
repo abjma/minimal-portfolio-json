@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "abelj.montes@gmail.com",
     "phone": "+57 (300) 498 2520",
-    "url": "https://abeljmontes.com",
+    "url": "https://abel-montes-cv.vercel.app/",
     "summary": "Hola 👋, soy Abel José Montes, Ingeniero de Sistemas, Desarrollador Web Front-end en mis ratos libres, (ocasionalmente me creo diseñador UI/UX). Autodidacta, trabajo en equipo, eficacia y perfección son algunas de mis grandes cualidades como profesional. Mis mejores amigos son mis mascotas «paloma, sushi y sasha», viajar es mi estilo de vida y que las aventuras sean parte de mi historia personal.",
     "location": {
       "city": "Medellín",
@@ -31,6 +31,7 @@
       }
     ]
   },
+
   "work": [
     {
       "name": "Reserco International Services IT",
@@ -88,106 +89,104 @@
     }
   ],
 
+  "certifications": [
+    {
+      "name": "CCNAv7: Switching, Routing, and Wireless Essentials",
+      "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html",
+      "authority": "Cisco",
+      "endDate": "2023-08-01"
+    },
+    {
+      "name": "CCNA R&S: Introduction to Networks Cisco Networking Academy",
+      "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html",
+      "authority": "Cisco",
+      "endDate": "2020-10-01"
+    },
+    {
+      "name": "Introducción a la Ciberseguridad",
+      "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html",
+      "authority": "Cisco",
+      "endDate": "2023-06-01"
+    }
+  ],
+
   "skills": [
     {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "JavaScript",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "Astro",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "React",
-      "level": "Principiante",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "Tailwind CSS",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "Git",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "GitHub",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "Node.js",
-      "level": "Principiante",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "VS Code",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "Linux",
-      "level": "Intermedio",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-
-    {
-      "name": "Windows",
+      "name": "Active Directory / DNS / DHCP",
       "level": "Master",
       "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
-      "name": "CCNA 7",
+      "name": "CCNA Routing & Switching",
       "level": "Intermedio",
       "keywords": ["Redes", "Cisco"]
+    },
+    {
+      "name": "SQL Server / MySQL",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "Python / PHP / Java",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS / Tailwind CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "JavaScript / Astro / Node.js",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "Git / GitHub",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+
+    {
+      "name": "Windows / Linux",
+      "level": "Intermedio",
+      "keywords": ["Desarrollo Web", "Frontend"]
     }
   ],
 
   "projects": [
     {
       "name": "Sunset VS",
-      "description": "Extensión de VS Code",
+      "description": "Extension de Visual Studio Code para cambiar el tema de la interfaz de usuario de forma automatica segun la hora del dia, con colores suaves y agradables a la vista inspirados en los colores del atardecer.",
       "highlights": ["En desarollo..."],
+      "tecnology": ["JavaScript", "CSS", "HTML", "JSON"],
       "url": "",
       "isActive": true
     },
 
     {
       "name": "Key Game",
-      "description": "Description...",
+      "description": "Juego de mecanografía para mejorar la velocidad y precisión de escritura en el teclado, con diferentes niveles de dificultad y temas.",
       "highlights": ["En desarollo..."],
+      "tecnology": ["HTML", "CSS", "JavaScript"],
       "url": "",
       "isActive": true
     },
 
     {
       "name": "e-Comerce COP",
-      "description": "e-Comerce de productos colombianos",
+      "description": "e-Comerce de productos colombianos, con pasarela de pagos, carrito de compras, panel de administración y seguimiento de pedidos.",
       "highlights": ["En desarollo..."],
+      "tecnology": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Tailwind CSS",
+        "PHP",
+        "MySQL"
+      ],
       "url": "",
       "isActive": true
     }
